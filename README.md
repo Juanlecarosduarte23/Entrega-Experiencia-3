@@ -19,3 +19,6 @@ ionic capacitor copy android
 
 
 ionic capacitor open android
+
+
+https://json-1-vo70.onrender.com
